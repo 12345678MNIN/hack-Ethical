@@ -1,6 +1,6 @@
 # hack-Ethical
 By Team Noob hackers
 
-$ chmod +x noob_hackers.sh
+$ chmod +x menu_noob2.sh
 
 $ ./noob_hackers.sh
